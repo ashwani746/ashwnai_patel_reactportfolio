@@ -1,6 +1,10 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# PORTFOLIO WEBSITE
+Technologies: React.js, EmailJS, HTML, CSS
+• Built a personal portfolio using React.js, featuring sections for personal info, skills, projects, and work experience.
+• Integrated a contact form with EmailJS for easy communication. It's designed to work smoothly on both desktop and
+mobile
+[Ashwani Patel](https://ashwanipatel.netlify.app/).
 
 ## Available Scripts
 
