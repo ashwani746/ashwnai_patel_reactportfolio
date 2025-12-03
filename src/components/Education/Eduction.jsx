@@ -48,8 +48,14 @@ const Education = () => {
           <div className="mt-6 w-full h-auto border-l-[6px] border-l-gray-500 border-opacity-30 flex flex-col ">
             
             <EducationCard
+              title="Web Development (Developer)"
+              subTitle="THZ Publisherverse Pvt. Ltd / Argasia Education Pvt Ltd (Dec-2024 - Nov-2025)"
+              result="Noida"
+            />
+
+            <EducationCard
               title="Business Development Associate (BDA)"
-              subTitle="Byju's(Dec-2024 - June-2024)"
+              subTitle="Byju's(Dec-2023 - June-2024)"
               result="Noida"
             />
 
@@ -59,8 +65,8 @@ const Education = () => {
               result="Noida"
             />
              <EducationCard
-              title="BharatTech"
-              subTitle="Internship- (sept-2022 - feb-2023)"
+              title="Frontend Developer"
+              subTitle="Internship- BharatTech(sept-2022 - feb-2023)"
               result="Lucknow"
             />
 
