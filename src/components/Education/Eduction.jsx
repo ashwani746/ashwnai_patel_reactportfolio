@@ -49,7 +49,7 @@ const Education = () => {
             
             <EducationCard
               title="Web Development (Developer)"
-              subTitle="THZ Publisherverse Pvt. Ltd / Argasia Education Pvt Ltd (Dec-2024 - Nov-2025)"
+              subTitle="THZ Publisherverse Pvt. Ltd / Argasia Education Pvt Ltd (Sept-2024 - Nov-2025)"
               result="Noida"
             />
 
