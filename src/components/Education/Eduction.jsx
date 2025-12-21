@@ -5,7 +5,7 @@ const Education = () => {
   return (
     <div
       name="experience"
-      className="w-full h-full bg-gradient-to-b from-black to-gray-800 text-white"
+      className="w-full h-full bg-gradient-to-b from-[#5f6570] to-[#9EA4B0]  text-white"
     >
       <div className="w-full flex gap-20 justify-evenly px-24 max-[950px]:flex-col">
         <div>

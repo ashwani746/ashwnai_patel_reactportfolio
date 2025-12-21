@@ -5,7 +5,7 @@ const Projects = () => {
   return (
     <div
       name="project"
-      className="w-full h-full bg-gradient-to-b from-black  via-red-500 to-green-500 text-white"
+      className="w-full h-full bg-gradient-to-b from-[#9EA4B0] to-[#5f6570] text-white"
     >
       <div className="flex flex-col p-4 justify-center max-w-screen-lg mx-auto h-full">
         <div className="pb-8 mt-5">
