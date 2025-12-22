@@ -32,7 +32,7 @@ const Navbar = () => {
     },
   ];
   return (
-    <div className=" bg-gray-900 px-4 flex justify-between items-center w-full h-20 text-white fixed">
+    <div className=" bg-gray-700 px-4 flex justify-between items-center w-full h-20 text-white fixed">
       <div>
         <a href="/" className="cursor-pointer">
           <h1 className="text-4xl font-signature ml-2 font-bold text-ashwani cursor-pointer ">
